@@ -1,0 +1,5 @@
+classes = 4
+train = /home/chikarahanakawa/0913_robo/train.txt
+valid = /home/chikarahanakawa/0913_robo/test.txt
+names = roboinfo/v2tiny_4class.names
+backup = backup/test
